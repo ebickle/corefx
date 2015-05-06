@@ -228,4 +228,7 @@
   <data name="NotSupported_SortedListNestedWrite" xml:space="preserve">
     <value>This operation is not supported on SortedList nested types because they require modifying the original SortedList.</value>
   </data>
+  <data name="InvalidOperation_EmptyPriorityQueue" xml:space="preserve">
+    <value>Priority queue empty.</value>
+  </data>
 </root>
